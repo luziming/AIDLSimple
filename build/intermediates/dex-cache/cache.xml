@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/luziming/.android/build-cache/4585572057848aa0e152106a27fb58bc67a2c54f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/pre-dexed/debug/classes_96ed47ad4fa5f4b618c8c19aaa1f6681a0c5da7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luziming/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_df2fb5ec1b0615cdb2b483d256007ddce5da9eea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luziming/.android/build-cache/6d66e9f11cff8b9a16c26015c3a244b36a4b150f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/pre-dexed/debug/classes_067600c0cd0b69a17ce10f8162f03fa4bc8b5c9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luziming/.android/build-cache/7e61c982944fab2d2f5d6b06baa8a10f3067c45e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/pre-dexed/debug/classes_b61de810e31ae621f262530fa81ac48b570cf5d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luziming/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_06bdb44c04b1ca07fde7bf28e75a7784e156cebf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luziming/.android/build-cache/360885a01a1047a6668757b225bfe9a69a4a7936/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/pre-dexed/debug/classes_7030526b733d46331f2479d9b6d5ea189e3342e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luziming/.android/build-cache/eb1bfe2007ec75a1e6a326f74c8cf3c3708b4eb9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/pre-dexed/debug/classes_ef231f064931535eba55f123553fc72dc343271a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luziming/.android/build-cache/6aedbd56cdd2a688875c0bf2b4e82679c6ec4f65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/pre-dexed/debug/classes_b170cfeadd9dcdd201d82f1fd33b032fa74859ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luziming/.android/build-cache/575f3d08bc8b7feba1a20ef184d247ac7e168220/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/pre-dexed/debug/classes_f4f682624c4952162aaa79b7812245ebeb989d51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luziming/.android/build-cache/e02fc8d37573bf77b7ddf901812306c8bf3548c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/pre-dexed/debug/classes_8a7ea89ddb13bc88f42f64e4ea8d8fafd53fa3ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luziming/.android/build-cache/d8442d648b647f83167270dc0c494a144e108cd5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/pre-dexed/debug/classes_1cc1a3424fd1f5c4af09a8c39cd4c8055c63f455.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luziming/.android/build-cache/c6b7a0e4afe18f9e75a27ead899a954a5719ba80/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/pre-dexed/debug/classes_5b3739f2847657d8efaecb7e15e0466118c4d82c.jar" />
+    </item>
+
+</items>

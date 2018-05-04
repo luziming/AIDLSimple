@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/luziming/.android/build-cache/c6b7a0e4afe18f9e75a27ead899a954a5719ba80/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/luziming/.android/build-cache/c6b7a0e4afe18f9e75a27ead899a954a5719ba80/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/luziming/.android/build-cache/c6b7a0e4afe18f9e75a27ead899a954a5719ba80/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/luziming/.android/build-cache/c6b7a0e4afe18f9e75a27ead899a954a5719ba80/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/luziming/.android/build-cache/c6b7a0e4afe18f9e75a27ead899a954a5719ba80/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/luziming/.android/build-cache/c6b7a0e4afe18f9e75a27ead899a954a5719ba80/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/luziming/.android/build-cache/c6b7a0e4afe18f9e75a27ead899a954a5719ba80/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/luziming/.android/build-cache/c6b7a0e4afe18f9e75a27ead899a954a5719ba80/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/luziming/.android/build-cache/c6b7a0e4afe18f9e75a27ead899a954a5719ba80/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/luziming/.android/build-cache/c6b7a0e4afe18f9e75a27ead899a954a5719ba80/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/luziming/.android/build-cache/c6b7a0e4afe18f9e75a27ead899a954a5719ba80/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/luziming/.android/build-cache/c6b7a0e4afe18f9e75a27ead899a954a5719ba80/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/luziming/.android/build-cache/c6b7a0e4afe18f9e75a27ead899a954a5719ba80/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/luziming/.android/build-cache/c6b7a0e4afe18f9e75a27ead899a954a5719ba80/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]

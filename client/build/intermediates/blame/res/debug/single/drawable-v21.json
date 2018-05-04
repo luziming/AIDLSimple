@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/luziming/.android/build-cache/c6b7a0e4afe18f9e75a27ead899a954a5719ba80/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/luziming/.android/build-cache/c6b7a0e4afe18f9e75a27ead899a954a5719ba80/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/luziming/.android/build-cache/c6b7a0e4afe18f9e75a27ead899a954a5719ba80/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/luziming/AndroidStudioProjects/SoulMate/client/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/luziming/.android/build-cache/c6b7a0e4afe18f9e75a27ead899a954a5719ba80/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]
